@@ -1,0 +1,159 @@
+50 108
+Stephanie_Price
+Stephen_Adams
+Don_Hagarty
+Betty_Ripsom
+Sally_Mueller
+Sonia_Kaspbrak
+Greta_Bowie
+Zack_Denbrough
+Adrian_Mellon
+Casey_Tremblay
+Oscar_Wilson
+Victor_Murray
+Kay_Powell
+Linda_Thompson
+Philip_Johnson
+Ellen_Mercer
+Nathan_Cole
+Iris_Walker
+Jonah_Brooks
+Ruth_Abbott
+Jessica_Hanlon
+Oscar_Bowers
+Fox_Face
+Moose_Sadler
+Avery_Scott
+Lucas_Bennett
+Nora_Hayes
+Emily_Parker
+Caleb_Reed
+Mia_Thompson
+Clara_Mitchell
+Ethan_Morris
+Lily_Foster
+Noah_Carter
+Sarah_Ellis
+Isaac_Turner
+Grace_Wilson
+Owen_Gray
+Hannah_Wright
+Leah_Anderson
+Daniel_Hill
+Ruby_James
+Elijah_Stone
+Sophie_Davis
+Samuel_Ross
+Olivia_Ward
+Adam_Harris
+Chloe_Brown
+Thomas_Bell
+Maya_Collins
+Stephanie_Price Stephen_Adams 80
+Stephanie_Price Betty_Ripsom 290
+Stephanie_Price Greta_Bowie 120
+Stephanie_Price Casey_Tremblay 130
+Stephanie_Price Oscar_Wilson 400
+Stephanie_Price Daniel_Hill 220
+Stephen_Adams Don_Hagarty 130
+Stephen_Adams Sonia_Kaspbrak 320
+Stephen_Adams Samuel_Ross 470
+Don_Hagarty Betty_Ripsom 80
+Don_Hagarty Zack_Denbrough 350
+Don_Hagarty Maya_Collins 230
+Betty_Ripsom Sally_Mueller 220
+Betty_Ripsom Ellen_Mercer 550
+Sally_Mueller Sonia_Kaspbrak 110
+Sally_Mueller Adrian_Mellon 340
+Sally_Mueller Lucas_Bennett 310
+Sonia_Kaspbrak Greta_Bowie 150
+Sonia_Kaspbrak Elijah_Stone 250
+Greta_Bowie Zack_Denbrough 70
+Greta_Bowie Casey_Tremblay 350
+Greta_Bowie Ethan_Morris 410
+Zack_Denbrough Adrian_Mellon 210
+Zack_Denbrough Jonah_Brooks 430
+Adrian_Mellon Casey_Tremblay 140
+Adrian_Mellon Chloe_Brown 530
+Casey_Tremblay Kay_Powell 530
+Casey_Tremblay Caleb_Reed 440
+Oscar_Wilson Victor_Murray 70
+Oscar_Wilson Linda_Thompson 370
+Oscar_Wilson Nathan_Cole 260
+Oscar_Wilson Ruth_Abbott 130
+Oscar_Wilson Jessica_Hanlon 360
+Victor_Murray Kay_Powell 130
+Victor_Murray Ellen_Mercer 120
+Kay_Powell Linda_Thompson 210
+Kay_Powell Iris_Walker 320
+Kay_Powell Adam_Harris 360
+Linda_Thompson Philip_Johnson 200
+Linda_Thompson Lucas_Bennett 330
+Philip_Johnson Ellen_Mercer 180
+Philip_Johnson Jonah_Brooks 130
+Ellen_Mercer Nathan_Cole 130
+Ellen_Mercer Sarah_Ellis 430
+Nathan_Cole Iris_Walker 130
+Nathan_Cole Ruth_Abbott 170
+Iris_Walker Jonah_Brooks 210
+Iris_Walker Emily_Parker 410
+Iris_Walker Hannah_Wright 360
+Jonah_Brooks Ruth_Abbott 90
+Ruth_Abbott Oscar_Bowers 280
+Jessica_Hanlon Oscar_Bowers 80
+Jessica_Hanlon Moose_Sadler 180
+Jessica_Hanlon Nora_Hayes 200
+Jessica_Hanlon Mia_Thompson 120
+Jessica_Hanlon Clara_Mitchell 190
+Oscar_Bowers Fox_Face 180
+Oscar_Bowers Lucas_Bennett 200
+Fox_Face Moose_Sadler 110
+Fox_Face Emily_Parker 230
+Fox_Face Isaac_Turner 410
+Moose_Sadler Avery_Scott 110
+Moose_Sadler Elijah_Stone 320
+Avery_Scott Lucas_Bennett 110
+Avery_Scott Caleb_Reed 310
+Lucas_Bennett Nora_Hayes 190
+Nora_Hayes Emily_Parker 120
+Nora_Hayes Mia_Thompson 240
+Nora_Hayes Hannah_Wright 280
+Emily_Parker Caleb_Reed 140
+Caleb_Reed Mia_Thompson 220
+Caleb_Reed Ethan_Morris 440
+Clara_Mitchell Ethan_Morris 180
+Clara_Mitchell Noah_Carter 260
+Clara_Mitchell Grace_Wilson 150
+Clara_Mitchell Leah_Anderson 90
+Clara_Mitchell Daniel_Hill 470
+Ethan_Morris Lily_Foster 120
+Ethan_Morris Isaac_Turner 270
+Lily_Foster Noah_Carter 140
+Lily_Foster Owen_Gray 270
+Noah_Carter Sarah_Ellis 170
+Noah_Carter Olivia_Ward 260
+Sarah_Ellis Isaac_Turner 100
+Sarah_Ellis Hannah_Wright 200
+Isaac_Turner Grace_Wilson 170
+Grace_Wilson Owen_Gray 220
+Grace_Wilson Leah_Anderson 310
+Grace_Wilson Thomas_Bell 380
+Owen_Gray Hannah_Wright 200
+Hannah_Wright Leah_Anderson 100
+Leah_Anderson Ruby_James 210
+Daniel_Hill Ruby_James 80
+Daniel_Hill Sophie_Davis 190
+Daniel_Hill Adam_Harris 360
+Daniel_Hill Maya_Collins 100
+Ruby_James Elijah_Stone 70
+Ruby_James Olivia_Ward 230
+Elijah_Stone Sophie_Davis 160
+Elijah_Stone Chloe_Brown 340
+Sophie_Davis Samuel_Ross 120
+Samuel_Ross Olivia_Ward 230
+Samuel_Ross Thomas_Bell 370
+Olivia_Ward Adam_Harris 180
+Adam_Harris Chloe_Brown 110
+Adam_Harris Maya_Collins 240
+Chloe_Brown Thomas_Bell 160
+Thomas_Bell Maya_Collins 70
